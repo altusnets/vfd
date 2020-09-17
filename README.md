@@ -1,7 +1,5 @@
-  
- 
- 
- 
+# github.com/ALTUSNETS\
+
 # VFd Overview 
 Much in the way that a guest operating system requires a 
 hypervisor to provide accessibility to the underlying real 
